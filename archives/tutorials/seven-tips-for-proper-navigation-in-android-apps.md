@@ -35,7 +35,7 @@ the ActionBar. This bar sits at the top of the screen and contains
 common actions and navigation elements, such as tabs. It also includes
 an icon on the left side that can be used as an up button.
 
-[![](http://www.peachpit.com/content/images/art_ostrander1_appnav/elementLinks/thostrander1_fig01.jpg)](javascript:popUp('/content/images/art_ostrander1_appnav/elementLinks/ostrander1_fig01.jpg')
+![](http://www.peachpit.com/content/images/art_ostrander1_appnav/elementLinks/thostrander1_fig01.jpg)
 
 The up button as displayed in the Google Play app.
 

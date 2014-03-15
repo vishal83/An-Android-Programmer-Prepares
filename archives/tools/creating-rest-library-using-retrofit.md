@@ -77,12 +77,12 @@ top of Retrofit later if we want.
 -   "it will silently recover from common connection problems"
 
   
- *Local Caching*  
- OkHttp's HttpResponseCache allows you to set aside a specific amount of
+*Local Caching*  
+OkHttp's HttpResponseCache allows you to set aside a specific amount of
 space in cache directory, very similar to Google's HttpResponseCache.   
    
    
- First create an OkHttpClient and set 10MB of space in the cache
+First create an OkHttpClient and set 10MB of space in the cache
 director for caching   
 
     OkHttpClient okHttpClient = new OkHttpClient();
@@ -91,7 +91,7 @@ director for caching
     okHttpClient.setResponseCache(cache);
 
   
- Then in order to add some standard PATH and query parameters I create a
+Then in order to add some standard PATH and query parameters I create a
 RequestInterceptor   
 
     private class BasicRequestInterceptor implements RequestInterceptor {
